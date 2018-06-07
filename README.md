@@ -9,9 +9,11 @@
 
 # Torrents
 * [ETZ Torrents](https://etztorrents.me)
+* [EZTV](https://eztv.ag)
 
 # Courses for Free
 * [Udemy](https://www.freetutorials.us)
+* [Linda](https://www.freecoursesonline.us)
 
 # English Course
 * [EngVid](https://www.engvid.com)
