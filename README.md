@@ -36,13 +36,11 @@
 * [Remover Linhas Duplicadas](https://www.invertexto.com/remover-linhas-duplicadas)
 * [Smashing Magazine](https://smashingmagazine.com)
 
-# GitHub Usefull Links
-* [Javascript Livros pt-br](https://github.com/mikejavier/books.js)
-
 # NodeJs
 * [Instalação em Hospedagem Compartilhada](https://faq.hostmach.com.br/instalar-o-nodejs-em-sua-hospedagem/)
 
 # Javascript
-* [ES6 / ES7 / ES8](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 * [ECMAScript 2018](http://2ality.com/2017/02/ecmascript-2018.html)
+* [ES6 / ES7 / ES8](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
+* [Javascript Livros pt-br](https://github.com/mikejavier/books.js)
 * [Style Guide](https://google.github.io/styleguide/jsguide.html)
