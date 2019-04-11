@@ -44,3 +44,4 @@
 * [ES6 / ES7 / ES8](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 * [Javascript Livros pt-br](https://github.com/mikejavier/books.js)
 * [Style Guide](https://google.github.io/styleguide/jsguide.html)
+* [Clean Code Js](https://github.com/felipe-augusto/clean-code-javascript)
