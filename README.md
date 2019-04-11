@@ -45,3 +45,4 @@
 * [Javascript Livros pt-br](https://github.com/mikejavier/books.js)
 * [Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [Clean Code Js](https://github.com/felipe-augusto/clean-code-javascript)
+* [You Dont Know Js - Pt-br](https://github.com/cezaraugusto/You-Dont-Know-JS)
