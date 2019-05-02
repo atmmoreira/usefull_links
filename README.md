@@ -1,12 +1,5 @@
 # Usefull Links
 
-# Laravel
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel#application-hosting)
-* [Laracast](https://laracasts.com)
-
-# PHP
-* [Instalation](https://danielarancibia.wordpress.com/2015/09/27/installing-apache-2-4-and-php-7-for-development-on-windows/)
-
 # Torrents
 * [1337x](1337x.to)
 * [ETZ Torrents](https://etztorrents.me)
