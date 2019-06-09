@@ -29,6 +29,7 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [PonyFoo](https://ponyfoo.com)
 * [Remover Linhas Duplicadas](https://www.invertexto.com/remover-linhas-duplicadas)
 * [Smashing Magazine](https://smashingmagazine.com)
+* [PG icons](https://pgicons.abiro.com/) - Cria;'ao de [icones para Android e iOs]
 
 # NodeJs
 * [Instalação em Hospedagem Compartilhada](https://faq.hostmach.com.br/instalar-o-nodejs-em-sua-hospedagem/)
