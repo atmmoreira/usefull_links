@@ -17,7 +17,9 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 
 # English Course
 * [EngVid](https://www.engvid.com)
-* [Language Guide](https://www.languageguide.org/)
+* [Language Guide](https://www.languageguide.org)
+* [BBC Learning English](https://www.bbc.co.uk/learningenglish)
+* [Learning English - British Council](https://learnenglish.britishcouncil.org)
 
 # Weekly Technologies
 * [CSS Weekly](http://css-weekly.com)
