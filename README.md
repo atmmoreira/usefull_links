@@ -21,6 +21,8 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [BBC Learning English](https://www.bbc.co.uk/learningenglish)
 * [Learning English - British Council](https://learnenglish.britishcouncil.org)
 * [Talk English](https://www.talkenglish.com)
+* [Speaking 24](speaking24.com)
+* [News in Levels](https://www.newsinlevels.com)
 
 # Weekly Technologies
 * [CSS Weekly](http://css-weekly.com)
