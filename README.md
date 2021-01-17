@@ -11,19 +11,22 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [Torrentz2](torrentz2.eu)
 * [YTS](https://yts.am)
 
-# Courses for Free
-* [Linda](https://www.freecoursesonline.us)
-* [Udemy](https://www.freetutorials.us)
-
 # English Course
-* [EngVid](https://www.engvid.com)
-* [Language Guide](https://www.languageguide.org)
+* [Agenda Web](https://agendaweb.org/links)
 * [BBC Learning English](https://www.bbc.co.uk/learningenglish)
+* [EngVid](https://www.engvid.com)
+* [Espresso English](https://www.espressoenglish.net/how-to-learn-english-for-free-50-websites-for-free-english-lessons)
+* [Language Guide](https://www.languageguide.org)
+* [Learning Chocolate](https://www.learningchocolate.com)
 * [Learning English - British Council](https://learnenglish.britishcouncil.org)
-* [Talk English](https://www.talkenglish.com)
-* [Speaking 24](speaking24.com)
+* [Lyrics Training](https://lyricstraining.com)
+* [Many things](http://www.manythings.org)
 * [News in Levels](https://www.newsinlevels.com)
-* [Lyrics Training](https://lyricstraining.com/)
+* [Speaking 24](speaking24.com)
+* [TV 411](http://www.tv411.org)
+* [Talk English](https://www.talkenglish.com)
+* [Voa News](https://learningenglish.voanews.com)
+* [We Speak NYC](https://wespeaknyc.cityofnewyork.us)
 
 # Weekly Technologies
 * [CSS Weekly](http://css-weekly.com)
