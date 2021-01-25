@@ -34,12 +34,15 @@ Apunhado de links úteis para o desenvolvimento de projetos de programação e d
 * [Javascript Weekly](https://javascriptweekly.com)
 
 # Others Links
+* [Collections of free APIs](https://github.com/public-apis/public-apis) - A collective list of free APIs for use in software and web development.
+* [Collections of free ideas](https://github.com/app-ideas/app-ideas) - Collection of app ideas for your next project
+* [Collections of free resources](https://github.com/iuricode/recursos-gratuitos) - Recursos gratuitos
 * [DWB](https://davidwalsh.name)
+* [PG icons](https://pgicons.abiro.com/) - Criação de [icones para Android e iOs]
 * [Pesquisa de Dominios](http://whois-domain.registrocom.com/)
 * [PonyFoo](https://ponyfoo.com)
 * [Remover Linhas Duplicadas](https://www.invertexto.com/remover-linhas-duplicadas)
 * [Smashing Magazine](https://smashingmagazine.com)
-* [PG icons](https://pgicons.abiro.com/) - Cria;'ao de [icones para Android e iOs]
 
 # NodeJs
 * [Instalação em Hospedagem Compartilhada](https://faq.hostmach.com.br/instalar-o-nodejs-em-sua-hospedagem/)
